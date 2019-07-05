@@ -1,0 +1,61 @@
+body{
+    background-image: url(images.jpeg)
+}
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+button {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+ 
+
+}
+.botão-bala{
+    background-color: pink;
+}
+.botao-cha{
+    background-color: pink;
+}
+.botaoquentao{
+background-color: pink;
+}
+.botaotemp{
+    background-color: pink;
+}
+.botaocachaça{
+    background-color: pink;
+}
+
+div{
+    background-color: rgb(0, 0, 0);
+    width: 1300px;
+    height: 110px
+
+}
+
+div h3:first-child{
+    color: rgb(219, 27, 203);
+    text-align: center;
+}
+
+div h3:nth-child(2){
+    color:rgb(219, 27, 203);
+    text-align: center;
+}
+
+div h3:last-child{
+    color: rgb(219, 27, 203);
+    text-align: center;
+}
+
